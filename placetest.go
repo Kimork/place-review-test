@@ -28,5 +28,5 @@ func indexHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	fmt.Fprint(w, "테스트다 씨봉씨봉")
+	fmt.Fprint(w, "테스트다 씨봉씨봉크크루크크")
 }
